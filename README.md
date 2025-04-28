@@ -1,4 +1,4 @@
-# Kennah Full-Stack Application
+# To-Do Full-Stack Application
 
 This project consists of a frontend built with React and a backend built with Node.js (NestJS). Follow the instructions below to set up and run the application.
 
